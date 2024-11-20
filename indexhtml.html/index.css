@@ -1,0 +1,112 @@
+.yero{
+    display: flex;
+    gap: 2%;
+    margin-left: 10%;
+}
+.yero h3{
+    margin-top: 2%;
+    color: #285193;
+}
+.yero span{
+    color: #7A7A7A;
+}
+.yero h1{
+    color: #285193;
+}
+.icon{
+    display: flex;
+}
+.fero{
+    margin-left: 75%;
+    margin-top: -4%;
+}
+.go button{
+    display: flex;
+    gap: 5%;
+    margin-top: -13%;
+    margin-left: 20%;
+    background-color: #37AEE2;
+    padding-right: 10%;
+    border: 1px solid #37AEE2;
+    border-radius: 5px;
+    color: white;
+}
+.go button img{
+    margin-top: 15%;
+}
+.box{
+    display: flex;
+    gap: 3%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.box1{
+    margin-left: 10%;
+}
+.class p{
+    color: #7688A4;
+}
+.class{
+    margin-left: 10%;
+}
+.join{
+    display: flex;
+    margin-left: 10%;
+}
+.join-1{
+    color: #7688A4;
+}
+.join-menu{
+    margin-left: 7%;
+    margin-top: -5%;
+}
+.box3{
+    border: 1px solid whitesmoke;
+    padding: 2%;
+    background-color: whitesmoke;
+}
+.box4{
+    color: #28508E;
+}
+.section-menu{
+    margin-left: 10%;
+    display: flex;
+    gap: 4%;
+}
+.section p{
+    color: #6B6D97;
+}
+.text{
+    margin-left: 10%;
+}
+.next button{
+    display: flex;
+    gap: 5%;
+    background-color: #37AEE2;
+    padding-right: 10%;
+    border: 1px solid #37AEE2;
+    border-radius: 5px;
+    color: white;
+}
+.next button img{
+    margin-top: 15%;
+}
+.next{
+    display: flex;
+    margin-left: 35%;
+    margin-top: -3%;
+}
+.new{
+    margin-left: 8%;
+}
+.main{
+    margin-top: 5%;
+    background-color: #295093;
+    padding: 2%;
+    color: white;
+}
+.console-menu{
+    display: flex;
+    gap: 10%;
+    margin-left: 8%;
+}
